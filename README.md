@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Oleksandr 👋
 
-<!--
-**CAH4E3-SHO/CAH4E3-SHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student | Python Developer | Open to freelance work
 
-Here are some ideas to get you started:
+## What I do
+- 🤖 Telegram bots (aiogram 3)
+- 🕷️ Web scraping & data processing
+- 🔧 Python automation & Linux scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Work
+- **CurrencyBot** — Production Telegram bot with multi-API integration
+  - [Check it out](https://github.com/CAH4E3-SHO/CurrencyBot)
+
+## Tech Stack
+Python • C/C++ • Linux • Bash • APIs
+
+## Let's Talk
+📧 Email: oleksandr.o.march@gmail.com  
+💬 Telegram: @osvbs
+
+Currently taking freelance projects. DM if interested!
