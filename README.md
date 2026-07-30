@@ -1,4 +1,4 @@
-# Hey, I'm Oleksandr 👋
+# Hey, I'm Oleksandr Marchuk👋
 
 Computer Engineering student | Python Developer | Open to freelance work
 
