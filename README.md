@@ -18,6 +18,5 @@ Computer Engineering student — passionate about **C/C++, low-level, and embedd
  
 ## Contact
  
-oleksandr.o.march@gmail.com
+Gmail: oleksandr.o.march@gmail.com
 Telegram: [@osvbs](https://t.me/osvbs)
-
