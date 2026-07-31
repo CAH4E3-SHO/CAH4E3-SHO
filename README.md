@@ -5,7 +5,7 @@ Computer Engineering student — into **C/C++, low-level, and embedded/systems p
 ## Focus
  
 - Memory management, bitwise operations, performance and binary-size optimization
-- Embedded systems (Arduino-based projects: sensor interfacing, motor control, RFID access control, LCD/keypad I/O)
+- Embedded systems
 - Linux systems programming — C++20/23, clean C where performance matters
 - Python for tooling and automation where it's the right fit
 ## Selected work
