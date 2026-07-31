@@ -11,6 +11,7 @@ Computer Engineering student — passionate about **C/C++, low-level, and embedd
 ## Selected work
  
 - [**CurrencyBot**](https://github.com/CAH4E3-SHO/CurrencyBot) — Telegram currency converter bot (aiogram 3, FSM architecture, multi-API integration, bilingual UA/EN)
+- [**exarchon-pulse**](https://github.com/Manikse/exarchon-pulse) — telemetry & monitoring module for the EXARCHON project (Python, SQLite3) · contributor
 ## Stack
  
 `C` `C++` `Python` `Linux` `Bash` `Git`
