@@ -1,6 +1,6 @@
 # Hey, I'm Oleksandr 👋
  
-Computer Engineering student — passionate about **C/C++, low-level, and embedded/systems programming, Python developing**.
+Computer Engineering student — passionate about **C/C++, low-level, and embedded/systems programming, Python developing & automation**.
  
 ## Focus
  
