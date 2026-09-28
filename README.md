@@ -1,13 +1,5 @@
 # Hi, I'm Oleksandr
  
-Computer Engineering student | **C/C++, low-level, and embedded/systems programming, with Python for tooling**.
- 
-## Focus
- 
-- Memory management, bitwise operations, performance and binary-size optimization
-- Embedded systems
-- Linux systems programming
-- Python for tooling and automation
 ## Selected work
  
 - [**CurrencyBot**](https://github.com/CAH4E3-SHO/CurrencyBot) - Telegram currency converter bot (aiogram 3, FSM architecture, multi-API integration, bilingual UA/EN)
