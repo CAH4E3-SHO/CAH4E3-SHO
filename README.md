@@ -14,3 +14,4 @@
 |Gmail: oleksandr.o.march@gmail.com 
 |
 Telegram: [@osvbs](https://t.me/osvbs) |
+LinkedIn: [Oleksandr Marchuk](https://www.linkedin.com/in/oleksandr-marchuk-b77a4b43b) |
